@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# User added
+ideas/
+Assignments/
+syllabus/
+.DS_Store
